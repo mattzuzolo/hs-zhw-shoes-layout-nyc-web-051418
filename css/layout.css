@@ -26,12 +26,12 @@
 }
 
 .col-1 {
-  /*float: left;*/
+  float: left;
   width: 32%;
 }
 
 .col-2 {
-  /*float: left;*/
+  float: left;
   width: 66%;
 }
 
@@ -41,7 +41,7 @@
 }
 
 [class*="col-"]{
-  float:left;
+  /*float:left;*/
   margin-left: 2%;
 }
 
