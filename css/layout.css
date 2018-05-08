@@ -43,11 +43,11 @@
 
 [class*="col-"]{
   /*float:left;*/
-  margin-left: 4%;
+  margin-left: 2%;
 }
 
 .first {
-  margin-left: 0%;
+  margin-left: 2%;
 }
 
 
