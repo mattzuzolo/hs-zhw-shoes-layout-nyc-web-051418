@@ -18,39 +18,10 @@
   line-height: 0;
 }
 
-/* Posititoning Classes */
-
-
 .clear {
   clear: both;
 }
 
-.col-1 {
-  /*float: left;*/
-  width: 32%;
-  /*margin-left: 2%;*/
- 
-}
-
-.col-2 {
-  /*float: left;*/
-  width: 66%;
-  /*margin-left: 2%;*/
-}
-
-.col-3 {
-   /*background-color: gray;*/
-  /*margin-bottom: 2%;*/
-}
-
-[class*="col-"]{
-  float:left;
-  /**/
-  margin-left: 2%;
-}
-
-.first {
-  margin-left: 0%;
-}
+/* Posititoning Classes */
 
 
