@@ -38,7 +38,7 @@
 
 .col-3 {
    /*background-color: gray;*/
-
+  margin-bottom: 2%;
 }
 
 [class*="col-"]{
