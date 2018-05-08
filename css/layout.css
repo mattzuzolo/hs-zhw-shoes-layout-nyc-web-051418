@@ -37,6 +37,10 @@
 
 }
 
+[class*="col-"]{
+  margin-left: 2%;
+}
+
 /* Posititoning Classes */
 
 
