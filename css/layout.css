@@ -26,16 +26,16 @@
 }
 
 .col-1 {
-  float: left;
+  /*float: left;*/
   width: 32%;
-  margin-left: 2%;
+  /*margin-left: 2%;*/
  
 }
 
 .col-2 {
-  float: left;
+  /*float: left;*/
   width: 66%;
-  margin-left: 2%;
+  /*margin-left: 2%;*/
 }
 
 .col-3 {
