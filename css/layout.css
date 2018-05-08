@@ -38,3 +38,10 @@
   /*goes max width so no code here*/
 }
 
+[class*="col-"]{
+  margin-left: 2%;
+}
+
+.first {
+  margin-left: 0%;
+}
